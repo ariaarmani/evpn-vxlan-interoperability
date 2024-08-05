@@ -1,18 +1,19 @@
 # evpn-vxlan-interoperability
 EVPN-VXLAN Implementation and Interoperability Between Vendors
 
-// --Overview-- \\
+/ --Overview-- \
+
 This project explores the implementation and interoperability of EVPN-VXLAN (Ethernet VPN - Virtual Extensible LAN) across different vendors' devices. The primary objective is to ensure seamless operation and communication between various network devices using VXLAN technology, thereby enhancing network scalability and flexibility.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-// --Objectives-- \\
+/ --Objectives-- \
 
  * Ensure Interoperability: Demonstrate that EVPN-VXLAN can operate across devices from different vendors, ensuring a unified and scalable network solution.
  * Enhance Understanding: Develop a deep understanding of EVPN-VXLAN operations and the intricacies involved in achieving interoperability.
  * Contribute to Best Practices: Create a set of best practices and guidelines for network engineers to implement EVPN-VXLAN in multi-vendor environments.
  * 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-// --Implementation Steps-- \\ 
+/ --Implementation Steps-- \ 
 
  1)Literature Review and Research:
   * Studied the fundamentals of EVPN and VXLAN technologies.
@@ -40,7 +41,7 @@ This project explores the implementation and interoperability of EVPN-VXLAN (Eth
   * Detailed test cases and their outcomes.
     
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-// --Knowledge and Skills Gained-- \\ 
+/ --Knowledge and Skills Gained-- \ 
 
   * Technical Knowledge: In-depth understanding of EVPN-VXLAN technologies, network protocols, and configurations.
   * Problem-Solving Skills: Enhanced ability to troubleshoot and resolve complex network issues in multi-vendor environments.
@@ -48,7 +49,7 @@ This project explores the implementation and interoperability of EVPN-VXLAN (Eth
   * Interoperability Challenges: Insight into challenges and solutions for achieving interoperability using industry standards and best practices.
   * Hands-On Experience: Practical experience with network devices from multiple vendors, enhancing versatility in diverse networking environments.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-// --Conclusion-- \\ 
+/ --Conclusion-- \ 
 
 This project successfully demonstrated the feasibility of implementing EVPN-VXLAN across different vendor devices. The detailed documentation serves as a valuable resource for network engineers and contributes to the broader networking community by providing guidelines and insights for similar projects. The skills and knowledge gained through this project significantly enhance expertise in network engineering and interoperability solutions.
 
