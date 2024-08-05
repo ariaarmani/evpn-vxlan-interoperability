@@ -1,12 +1,12 @@
 # evpn-vxlan-interoperability
 EVPN-VXLAN Implementation and Interoperability Between Vendors
 
-/ --Overview-- \
+### Overview
 
 This project explores the implementation and interoperability of EVPN-VXLAN (Ethernet VPN - Virtual Extensible LAN) across different vendors' devices. The primary objective is to ensure seamless operation and communication between various network devices using VXLAN technology, thereby enhancing network scalability and flexibility.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-/ --Objectives-- \
+### Objectives
 
  * Ensure Interoperability: Demonstrate that EVPN-VXLAN can operate across devices from different vendors, ensuring a unified and scalable network solution.
  * Enhance Understanding: Develop a deep understanding of EVPN-VXLAN operations and the intricacies involved in achieving interoperability.
